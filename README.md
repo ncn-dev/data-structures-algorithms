@@ -18,3 +18,4 @@ The system is implemented in C 💻 and leverages the Binary Tree algorithm to h
 ## Screenshots 📸
 ![  DATA-STRUCTURES-ALGORITHMS Screenshot](assets/images/command.png)
 ## Author ✍️
+- Developed by My Group
